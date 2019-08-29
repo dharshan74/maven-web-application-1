@@ -91,13 +91,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.234.112.10:8081/repository/sudhi-release/</url>
+	      <name>sudhi-release</name>
+	      <url>http://52.66.199.164:8081/repository/sudhi-release/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.234.112.10:8081/repository/sudhi-snapshot/</url>
+	      <name>sudhi-snapshot</name>
+	      <url>http://52.66.199.164:8081/repository/sudhi-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
