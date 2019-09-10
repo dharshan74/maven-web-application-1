@@ -18,7 +18,7 @@
 	Very Good Training center for DevOps in Maratha Halli and also for Job Assitance... and Job Support also...
 	Teaching Real Time scnerios
 	Address: Dental College Road
-	marathalli
+	marathahalli
 	Bangalore:560037</h1>
 <hr>
 <div style="text-align: center;">
