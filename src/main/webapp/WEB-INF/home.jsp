@@ -20,7 +20,7 @@
 	Address: Dental College Road
 	P yaleru
 	Atmakur
-	Anantalur*****
+	*****Anantalur*****
 	
 </h1>
 <hr>
