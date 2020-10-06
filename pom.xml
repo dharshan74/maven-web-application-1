@@ -92,12 +92,18 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>sudhi-release</name>
-	      <url>http://52.66.205.113:8081/repository/maven-releases/</url>
+	      <url>http://13.235.247.234:8081/repository/maven-releases/</url>
+		<username>admin</username>
+     	 	<!-- <password>my_password</password> -->
+      		<privateKey>05d0517b-39e9-33d5-b491-ca12e6046caf</privateKey>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>sudhi-snapshot</name>
-	      <url>http://52.66.205.113:8081/repository/maven-snapshots/</url>
+	      <url>http://13.235.247.234:8081/repository/maven-snapshots/</url>
+		    <username>admin</username>
+     	 	<!-- <password>my_password</password> -->
+      		<privateKey>05d0517b-39e9-33d5-b491-ca12e6046caf</privateKey>
 	    </snapshotRepository>
 	</distributionManagement>
 	
